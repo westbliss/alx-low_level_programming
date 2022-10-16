@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - print a random num
+ * main - print a randon num
  *
  * Return: 0
  */
@@ -20,3 +20,4 @@ int main(void)
 	else
 		printf("%d is zero\n", n);
 	return (0);
+}
